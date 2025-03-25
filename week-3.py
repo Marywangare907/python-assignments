@@ -11,4 +11,4 @@ def main():
     print(f"The final price after applying the discount is: {final_price}")
 
 if __name__ == "__main__":
-    main()
+    main().
