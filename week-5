@@ -26,8 +26,8 @@ print(watch.track_steps(5000))
 
 
 
-
-lass Vehicle:
+# Polymorphism challenge
+class Vehicle:
     def move(self):
         pass
 
